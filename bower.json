@@ -1,0 +1,23 @@
+{
+  "name": "deploy.coderdojolasvegas.com",
+  "version": "0.0.0",
+  "homepage": "http://deploy.coderdojolasvegas.com",
+  "authors": [
+    "Nathan Sculli <nathan.sculli@allegiantair.com>"
+  ],
+  "description": "The front end web site for the CoderDojoLasVegas deployment web site.",
+  "main": "_public/index.html",
+  "keywords": [
+    "deploy",
+    "coderdojo"
+  ],
+  "license": "GPLv2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

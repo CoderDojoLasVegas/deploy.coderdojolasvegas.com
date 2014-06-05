@@ -1,0 +1,30 @@
+{
+  "name": "deploy.coderdojolasvegas.com",
+  "version": "0.0.0",
+  "description": "Front end website for CoderDojoLasVegas deployments.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.7.0",
+    "gulp-load-plugins": "~0.5.1"
+  },
+  "devDependencies": {
+    "gulp-load-plugins": "~0.5.1",
+    "gulp": "~3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoderDojoLasVegas/deploy.coderdojolasvegas.com.git"
+  },
+  "keywords": [
+    "deploy",
+    "coderdojo"
+  ],
+  "author": "Nathan A Sculli",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/CoderDojoLasVegas/deploy.coderdojolasvegas.com/issues"
+  }
+}
